@@ -1,1 +1,1 @@
-# Python-snapper-
+Hey friends, I'm a new developer & tech student. This is my first Python project — a snapper tool. I'll be sharing all my projects & tools for devs and students. Follow along if you're building too ➰📈
